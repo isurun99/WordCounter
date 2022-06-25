@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\User\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\User\source\repos\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\User\source\repos\WordCounter\WordCounter\bin\Debug\WordConterFacade.dll
+C:\Users\User\source\repos\WordCounter\WordCounter\bin\Debug\WordConterFacade.pdb
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.Views.FormMain.resources
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CopyComplete
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.Views.FormWordCount.resources
+C:\Users\User\source\repos\WordCounter\WordCounter\obj\Debug\WordCounter.Views.FormAbout.resources

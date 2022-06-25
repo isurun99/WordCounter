@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\WordCounter\WordConterFacade\bin\Debug\WordConterFacade.dll
+C:\Users\User\source\repos\WordCounter\WordConterFacade\bin\Debug\WordConterFacade.pdb
+C:\Users\User\source\repos\WordCounter\WordConterFacade\obj\Debug\WordCounterFacade.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WordCounter\WordConterFacade\obj\Debug\WordCounterFacade.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WordCounter\WordConterFacade\obj\Debug\WordConterFacade.dll
+C:\Users\User\source\repos\WordCounter\WordConterFacade\obj\Debug\WordConterFacade.pdb
